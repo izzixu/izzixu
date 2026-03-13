@@ -20,4 +20,6 @@
   <img src="https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg" width="250">
   <img src="https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg" width="250">
 </p>
+
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=314abyggc63fvxch2ahoxzwc365q&cover_image=true&theme=default)
 </div>
