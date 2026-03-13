@@ -16,5 +16,5 @@
  ꒰ ੭ㅤ𝘰𝘱𝘦𝘯 𝘵𝘰 𝘯𝘦𝘸 𝘧𝘳𝘪𝘦𝘯𝘥𝘴, 𝘥𝘰𝘯𝘵 𝘣𝘦 𝘴𝘩𝘺  ⪩⪨     ˚
 <p align="center">
   <img src="[IMAGE1_LINK](https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg)" style="width:300px; height:200px; object-fit:cover;">
-  <img src="[IMAGE2_LINK](https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg)" style="width:300px; height:200px; object-fit:cover;">
+  <img src="[IMAGE2_LINK]([https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg](https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg))" style="width:300px; height:200px; object-fit:cover;">
 </p>
