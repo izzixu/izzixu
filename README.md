@@ -1,4 +1,5 @@
 ![banner](https://64.media.tumblr.com/dd8e653d676563e91cc73a31be5697ad/989c229c574ab330-ba/s1280x1920/cdf57af962c0a67dcf9760190dbbfe1fedeaa811.pnj)
+<div align="center">
 𝘩𝘦𝘭𝘭𝘰!
 
 𝘪 𝘨𝘰 𝘣𝘺 𝘪𝘻𝘻𝘺! (𝘥𝘶𝘩)
@@ -19,3 +20,4 @@
   <img src="https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg" width="250">
   <img src="https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg" width="250">
 </p>
+</div>
