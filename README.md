@@ -16,6 +16,6 @@
  ꒰ ੭ㅤ𝘰𝘱𝘦𝘯 𝘵𝘰 𝘯𝘦𝘸 𝘧𝘳𝘪𝘦𝘯𝘥𝘴, 𝘥𝘰𝘯𝘵 𝘣𝘦 𝘴𝘩𝘺  ⪩⪨ 
 
 <p>
-  <img src="[image1.png](https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg)" width="250">
+  <img src="./[image1.png](https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg)" width="250">
   <img src="./[image2.png](https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg)" width="250">
 </p>
