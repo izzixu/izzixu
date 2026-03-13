@@ -21,5 +21,9 @@
   <img src="https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg" width="250">
 </p>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6TWORLnaPy2I4XotnkZt5b?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p align="center">
+<a href="https://open.spotify.com/playlist/6TWORLnaPy2I4XotnkZt5b">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default">
+</a>
+</p>
 </div>
