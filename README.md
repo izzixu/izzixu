@@ -1,16 +1,16 @@
-## Hi there 👋
+![banner](https://64.media.tumblr.com/dd8e653d676563e91cc73a31be5697ad/989c229c574ab330-ba/s1280x1920/cdf57af962c0a67dcf9760190dbbfe1fedeaa811.pnj)
+𝘩𝘦𝘭𝘭𝘰!
 
-<!--
-**izzixu/izzixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝘪 𝘨𝘰 𝘣𝘺 𝘪𝘻𝘻𝘺! (𝘥𝘶𝘩)
 
-Here are some ideas to get you started:
+⸝⸝ 𝘴𝘩𝘦 . 𝘩𝘦𝘳  ᡣ 𓈒⋅ ⩊ ⋅𓈒ྀིა 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𝘪 𝘭𝘰𝘷𝘦 𝘱𝘰𝘬𝘦𝘮𝘰𝘯, 𝘱𝘰𝘬𝘦𝘮𝘰𝘯, 𝘢𝘯𝘥 𝘱𝘰𝘬𝘦𝘮𝘰𝘯 (𝘥𝘪𝘥 𝘪 𝘮𝘦𝘯𝘵𝘪𝘰𝘯 𝘱𝘰𝘬𝘦𝘮𝘰𝘯) 𝘢𝘯𝘥 𝘢𝘯𝘪𝘮𝘢𝘭 𝘤𝘳𝘰𝘴𝘴𝘪𝘯𝘨 :3
+
+𝙡𝙚𝙤𝙣, 𝙧𝙖𝙞𝙝𝙖𝙣, 𝙢𝙖𝙣𝙖𝙩𝙤 🙈
+﻿
+𝙞𝙢 𝙛𝙞𝙭𝙖𝙩𝙚𝙙 𝙤𝙣 𝙡𝙚𝙤𝙣 𝙨𝙤 𝙗𝙖𝙙 𝙝𝙜𝙛𝙟𝙝𝙛𝙙𝙝𝙙𝙝
+
+ ꒰ ੭ㅤ𝙎𝙏𝙍𝘼𝙒𝙋𝘼𝙂𝙀 𝙐𝙋 𝙎𝙊𝙊𝙉!! ꒰ˆ. . ˆ  ྀི꒱੭ﾞ
+𝘥𝘪𝘴𝘤𝘰𝘳𝘥 𝘯𝘰𝘵 𝘢𝘤𝘤𝘦𝘱𝘵𝘪𝘯𝘨 𝘳𝘯 :(
+ ꒰ ੭ㅤ𝘰𝘱𝘦𝘯 𝘵𝘰 𝘯𝘦𝘸 𝘧𝘳𝘪𝘦𝘯𝘥𝘴, 𝘥𝘰𝘯𝘵 𝘣𝘦 𝘴𝘩𝘺  ⪩⪨     ˚ 
