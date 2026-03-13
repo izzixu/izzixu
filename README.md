@@ -20,10 +20,4 @@
   <img src="https://i.pinimg.com/736x/e1/9b/d7/e19bd78d6ec0115ec076b2febf64bf04.jpg" width="250">
   <img src="https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg" width="250">
 </p>
-
-<p align="center">
-<a href="https://open.spotify.com/playlist/6TWORLnaPy2I4XotnkZt5b">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default">
-</a>
-</p>
 </div>
