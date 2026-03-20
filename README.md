@@ -27,3 +27,4 @@
   <img src="https://i.pinimg.com/736x/a1/be/3b/a1be3b4e6f76b310395594d17215b564.jpg" width="250">
 </p>
 </div>
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314abyggc63fvxch2ahoxzwc365q)
