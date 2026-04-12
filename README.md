@@ -11,14 +11,13 @@
 
   <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="150">
 
-
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding-right: 20px;">
       hey, what’s up? 👋😊<br>
       this is my cute text area ✨
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="150">
     </td>
   </tr>
