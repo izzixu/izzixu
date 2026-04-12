@@ -10,3 +10,4 @@
 
   <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="30">
 </p>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=314abyggc63fvxch2ahoxzwc365q&cover_image=true&theme=default">
