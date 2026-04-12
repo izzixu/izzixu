@@ -3,5 +3,5 @@
 <p align="center">
 “𝘚𝘰𝘮𝘦 𝘥𝘢𝘺𝘴, 𝘮𝘺 𝘮𝘪𝘯𝘥 𝘸𝘢𝘯𝘥𝘦𝘳𝘴… 𝘢𝘯𝘥 𝘐 𝘧𝘢𝘯𝘵𝘢𝘴𝘪𝘻𝘦 𝘢𝘣𝘰𝘶𝘵 𝘸𝘢𝘭𝘬𝘪𝘯𝘨 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦 𝘳𝘢𝘪𝘯.”
 </p>
-<p align="center"><img width="332" height="332" alt="tumblr_d907f70f8aa653501802c3dcbe11bb86_989547e2_2048" src="https://github.com/user-attachments/assets/0d199a50-6753-4da5-ba24-fcd326d10313" />
+<p align="center"><img width="332" height="332" alt="tumblr_d907f70f8aa653501802c3dcbe11bb86_989547e2_2048" src="https://github.com/user-attachments/assets/a41c4ca5-7380-43f8-8e36-53d4d4f474ad" />
 </p>
