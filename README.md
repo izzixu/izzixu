@@ -7,12 +7,19 @@
 </p>
 𝘷𝘪𝘴𝘪𝘵 𝘴𝘵𝘳𝘢𝘸
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <div>
-    hey, what’s up? 👋😊<br>
-    this is my cute text area ✨
   </div>
 
   <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="150">
 
 
+<table>
+  <tr>
+    <td>
+      hey, what’s up? 👋😊<br>
+      this is my cute text area ✨
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="150">
+    </td>
+  </tr>
+</table>
