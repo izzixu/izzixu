@@ -9,5 +9,5 @@
 𝘷𝘪𝘴𝘪𝘵 𝘴𝘵𝘳𝘢𝘸 <a href="https://theteaparti.straw.page" style="color: pink;">here</a>
 
 
-  <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="30">
+  <img src="https://github.com/user-attachments/assets/a8f07b77-4fdd-433c-b3b2-349f13fbfc3f" width="30"> 
 </p>
