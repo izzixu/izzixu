@@ -24,5 +24,5 @@ ${\color{#b27dc1}\text{𝘛𝘩𝘦𝘳𝘦 }}{\color{#b780c3}\text{𝘢𝘳𝘦
 
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5acc6875-2789-44ab-9bf4-08bca9bde3d9" alt="gif" width="500"/>
+  <img src="https://github.com/user-attachments/assets/379a0b81-862a-483e-837e-5fb573e23139" alt="gif" width="500"/>
 </p>
