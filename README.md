@@ -3,6 +3,4 @@
 </div>
  <br>
   <br>
-<div align="center">
-$\color{#b27dc1}{\text{tim}}\color{#ff92bf}{\text{𝙚𝙨}}\color{#b27dc1}{\text{ 𝘩𝘢𝘷𝘦 𝘤𝘩𝘢𝘯𝘨𝘦𝘥, }}\color{#ff92bf}{\text{𝙙𝙖𝙧𝙡𝙞𝙣𝙜.}}$
-</div>
+$\color{#b27dc1}{\text{tim}}\color{#ff92bf}{\text{es}}\color{#b27dc1}{\text{ have changed, }}\color{#ff92bf}{\text{darling.}}$
