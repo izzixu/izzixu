@@ -10,7 +10,7 @@ $\color{#b27dc1}{\text{tim}}\color{#ff92bf}{\text{𝙚𝙨}}\color{#b27dc1}{\tex
 ${\color{#ff92bf}\text{彡 𝙨}}{\color{#b27dc1}\text{he}}{\color{#b27dc1}\text{ . 𝙝𝙚𝙧 }}{\color{#ff92bf}\text{─}}{\color{#ff92bf}\textbf{𝘧}}{\color{#b27dc1}\textbf{𝙚𝙢}}$
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2611f8ed-0e07-45a6-b2e5-b6f5620dca7d" alt="picture" width="700" />
+  <img src="https://github.com/user-attachments/assets/566663b0-140d-4c2a-b00b-6eb04761d84d" alt="picture" width="700" />
 </p>
 
 <div align="center">
