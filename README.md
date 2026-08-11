@@ -11,6 +11,5 @@ ${\color{#ff92bf}\text{𝙨}}{\color{#b27dc1}\text{he}}{\color{#b27dc1}\text{ . 
 
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5acc6875-2789-44ab-9bf4-08bca9bde3d9" alt="gif" width="400" />
+  <img src="https://github.com/user-attachments/assets/5acc6875-2789-44ab-9bf4-08bca9bde3d9" alt="gif" />
 </p>
-
