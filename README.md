@@ -10,7 +10,8 @@ $\color{#b27dc1}{\text{tim}}\color{#ff92bf}{\text{𝙚𝙨}}\color{#b27dc1}{\tex
 ${\color{#ff92bf}\text{𝙨}}{\color{#b27dc1}\text{he}}{\color{#b27dc1}\text{ . 𝙝𝙚𝙧 }}{\color{#ff92bf}\text{─}}{\color{#ff92bf}\textbf{𝘧}}{\color{#b27dc1}\textbf{𝙚𝙢}}$
 
 </div>
-<img width="600" height="196" alt="output-onlinegiftools (1)" src="https://github.com/user-attachments/assets/fe6f0947-a4ba-4d2f-9eb6-e035bd61f168" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5acc6875-2789-44ab-9bf4-08bca9bde3d9" alt="gif" />
+</p>
 
 
