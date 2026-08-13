@@ -26,3 +26,6 @@ ${\color{#b27dc1}\text{𝘛𝘩𝘦𝘳𝘦 }}{\color{#b780c3}\text{𝘢𝘳𝘦
 <p align="center">
   <img src="https://github.com/user-attachments/assets/379a0b81-862a-483e-837e-5fb573e23139" alt="gif" width="500"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=izzixu&label=bullets&color=ffa8cb" />
+</p>
